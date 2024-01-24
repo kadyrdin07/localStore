@@ -1,0 +1,23 @@
+.container{
+  background: red;
+  height: 900px;
+  .totu{
+    width: 500px;
+  display: flex;
+  justify-content: center;
+  background-color: purple;
+  border-radius: 40px;
+  margin: 25px;
+  color: white;
+  box-shadow:  0 0 30px white;
+  gap: 200px
+  
+  
+  }
+  .button{
+
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+  }
+}
